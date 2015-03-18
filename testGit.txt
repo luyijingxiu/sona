@@ -1,4 +1,3 @@
 create a text file to test git
 use sublime to edit,do not use "记事本" 
 
-test
